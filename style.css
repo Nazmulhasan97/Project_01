@@ -1,0 +1,81 @@
+  
+
+  body {
+      
+    background: url('Img/computer.jpg') fixed 0 0 /100% 150%;
+    background-repeat: no-repeat;
+  
+  }
+  .project {
+    background-color: rgb(179, 231, 231);
+      text-align: center;
+      padding-top: 80px;
+      overflow: hidden;
+      border: 2px solid #797575;
+      border-radius: 40px;
+      width: 40%;
+      height: 250px;
+      margin-left:350px;
+      margin-top: 200px;
+
+  }
+     .project h2 {
+       text-align:center;
+       font-size: 25px;
+         color: rgba(14, 13, 13, 0.966);
+         transition-duration: 1s;
+   } 
+   .project h2:hover {
+       color: orangered;
+       transition-duration: 1s;
+   }
+  .project .nam1  {
+      margin-bottom: 10px;
+      margin-left: 27px;
+      margin-right: 0;
+      
+    
+  }  
+  .project .pass1  {
+      margin-bottom: 10px;
+      margin-left: 2px;
+      
+    
+  }
+  .project label {
+      
+     font-size: 20px;
+     color: rgb(138, 2, 2);
+     font-weight: 900;
+  }
+  
+  .project  input {
+   
+    border-radius: 5px;
+    
+    width:  150px;
+    height: 25px;
+    
+    
+   
+}
+  
+     .sub  input {
+      background: rgb(43, 42, 47);
+      color: rgb(238, 238, 238);
+      border-radius: 15px;
+      font-size: 15px;
+      font-weight: bold;
+      width:  100px;
+      height: 40px;
+      padding: 10px;
+      margin-top: 15px;
+      margin-left: 25px;
+      transition-duration: 1s;
+  }
+   .sub  input:hover {
+      background: rgb(189, 221, 8);
+      transition-duration: 1s;
+    
+      
+   }
